@@ -1,85 +1,109 @@
 ---
-layout: default
+layout: cv
+title: Riccardo Bernucci's CV
 ---
 
-Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
+# Riccardo Bernucci
 
-[markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
+Software Engineer
 
-### what does that mean?
+<div id="webaddress">
+    <i class="fas fa-phone-square"></i> <a href="tel:+393347387500">+393347387500</a> &nbsp; &nbsp;| 
+    <i class="fas fa-envelope-open"></i> <a href="mailto:rikibek96@gmail.com">rikibek96@gmail.com</a><br>
+    <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/riccardo-bernucci-895b9b1a5/">My Linkedin Page</a> | <i class="fab fa-github-square"></i> <a href="https://github.com/riccardobek">My GitHub</a><br>
+    <i class="fas fa-map-marked"></i> Via Andrea Mantegna 7, Albignasego (PD) 35020, Padua, Italy<br>
+    Nationality: Italian<br>
+    Driving License: B2
+</div>
+<img src="media/image.jpeg" id="avatar">
 
-Write your CV like this...
+## Currently
 
-<img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+Software Engineer and Project Manager @ <a href="https://www.tepui.it">Tepui s.r.l.</a>
 
-and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
+## Occupation
 
-<img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+`November 2020 - now`
+**Project Leader**, Tepui s.r.l.
 
+Projected, developed and maintained software solutions, as well as developed relationships with clients and partners.
 
+Analyzed customers business metrics using Microsoft PowerBI.
 
-## Usage
+Analyzed and enhanced existing software DBMS performance using SQL Server QueryStore.
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+`November 2019 - October 2020`
+**Software Engineer**, Tepui s.r.l.
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+Analyzed, designed and built new apps (both web and mobile), components or enhancements to existing modules using the following technologies:
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+- Frontend: HTML5, CSS3/SASS/LESS, JavaScript/TypeScript
+- Mobile: Android w/ Java
+- Frameworks: Angular 2+
+- Backend: C# and Java
+- Cloud: Azure
+- DBMS: SQL Server, Oracle and MySQL/MariaDB, IBM Informix
+- PaaS: Instant Developer
+- Others: VBA, MS Access
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+`November 2018 - October 2019`
+**Software Engineer Intern**, Tepui s.r.l.
 
-adding your skills, jobs and education.
+Projected and implemented a catalog / product configurator
+During the internship I created a product catalog configurator.
+The software arises from the need of a customer to have to easily insert products, taken from a dematerialized price list, into their website / showcase.
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+The technologies involved were:
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+- Backend: Tomcat/Java 8
+- Frontend: HTML5/CSS3/JavaScript
+- DBMS: SQL Server
 
-### 1) Using Github Pages to publish it online
+## Education
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+`October 2015- September 2019`
+**BsC in Computer Science** @ University of Padua
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+I have also attended the following additional courses:
 
-### 2) Build it locally
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
+- Web Information Management
+- Startup in ITC
 
-## How do I print the PDF?
-Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
+Final score: 95/110
 
-## is this the only style available?
+Thesis: "Instant Developer: Projected and implemented a catalog / product configurator"
 
-The included CSS renders your CV in different styles:
+`September 2010 - June 2015`
+**Diploma in Corporate IT Systems** @ ITC P.F. Calvi
 
-- `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita)
+Final score: 87/100
 
-<img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+I have attended the following additional courses:
 
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned, authored by [David Whipp](https://davewhipp.github.io/markdown-cv/)
+- ECDL
+- Cambridge FCE
 
-<img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+## Langauge skills
 
-To change the default style, one needs to simply change `site` the variable in the
-`_config.yml` file.
+- Italian: mothertongue
+- English: B2
+- French: B1
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+## Soft skills
 
+### Communication
 
+The ability to work in a team, as well as the ability to organize work and assign tasks.
 
-### Author
+### Core skills
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+- Problem solving attitude.
+- Full-stack development attitude.
+- Having the great desidere to learn and continuously improve.
+- Start up experience, creative, high attention to detail and extreme interest in craft.
+- Driving change within an organization.
+- Project management and architecture.
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+<!-- ### Footer
 
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
-
-<a href="https://github.com/elipapa/markdown-cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+Last updated: May 2013 -->

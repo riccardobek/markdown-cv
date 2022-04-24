@@ -43,7 +43,7 @@ Analyzed customers business metrics using Microsoft PowerBI.
 
 Analyzed and enhanced existing software DBMS performance using SQL Server QueryStore.
 
-`November 2019 - October 2020`
+`August 2019 - October 2020`
 **Software Engineer**, Tepui s.r.l.
 
 Analyzed, designed and built new apps (both web and mobile), components or enhancements to existing modules using the following technologies:
@@ -57,7 +57,7 @@ Analyzed, designed and built new apps (both web and mobile), components or enhan
 - PaaS: Instant Developer
 - Others: VBA, MS Access
 
-`November 2018 - October 2019`
+`November 2018 - July 2019`
 **Software Engineer Intern**, Tepui s.r.l.
 
 Projected and implemented a catalog / product configurator

@@ -17,6 +17,28 @@ Software Engineer
 </div>
 <img src="media/image.jpeg" id="avatar">
 
+## About me
+<!--
+Sono una ragazzo socievole, determianto e scrupoloso. 
+Mi ritengo disponibile e aperto ad ogni suggerimento, cercando sempre le soluzioni più "smart" per la risoluzione di problemi che mi vengono posti.
+
+La creazione di applicazioni web fin da quando mi è stato insegnato il primo "hello world" in Html mi ha sempre appassionato. Consosco vari linguaggi di programmazione, ma sono sempre pronto ad apprenderene di nuovi. Il mio preferito è Javascript/Typescript. 
+
+Recentemente ho scoperto la potenzialità dei framework SPA tanto da aver deciso di imparare in autonomia Angular e prendere l'iniziativa di applicarlo ad un progetto aziendale (il quale ha riscosso parecchio successo).
+
+Mi piace prendermi le mie pause dedicandole alla lettura di manga o tenendomi aggiornato sulle novità del mondo dell'informatica.
+-->
+
+I'm a friendly, determined and scrupulous guy.
+I consider myself available and open to any suggestion, always looking for the smartest solutions for solving problems.
+
+Since I wrote the first "Hello world" in HTML, the creation of web applications has always fascinated me. I know various programming languages, but I'm always ready to learn new ones (my favourites are Javascript and Typescript).
+
+I recently discovered the potential of SPA frameworks so much that I decided to learn Angular by myself and to take the initiative to apply it to a work-related project (which has been very successful).
+
+Everyday I like to find space for myself, having a break dedicated to read manga or keep me updated on the latest IT related stuff.
+
+
 ## Currently
 
 Software Engineer and Project Manager @ <a href="https://www.tepui.it">Tepui s.r.l.</a>

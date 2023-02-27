@@ -30,7 +30,7 @@ Everyday I like to find space for myself, having a break dedicated to read manga
 
 ## Currently
 
-Software Engineer and Project Manager @ <a href="https://www.tepui.it">Tepui s.r.l.</a>
+Java Software Engineer @ <a href="https://www.cinetix-group.it/">Cinetix s.r.l.</a>
 
 ## Occupation
 
@@ -43,7 +43,7 @@ Maintenance of microservices applications on Linux.
 
 
 `November 2020 - June 2022`
-**Project Manager**, Tepui s.r.l.
+**Project Manager**, <a href="https://www.tepui.it">Tepui s.r.l.</a>
 
 Projected, developed and maintained software solutions, as well as developed relationships with clients and partners.
 

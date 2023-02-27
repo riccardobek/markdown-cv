@@ -34,7 +34,15 @@ Software Engineer and Project Manager @ <a href="https://www.tepui.it">Tepui s.r
 
 ## Occupation
 
-`November 2020 - now`
+`June 2020 - now`
+**Java Software Engineer**, Cinetix s.r.l.
+
+Java development based on Springboot framework.
+
+Maintenance of microservices applications on Linux. 
+
+
+`November 2020 - June 2022`
 **Project Manager**, Tepui s.r.l.
 
 Projected, developed and maintained software solutions, as well as developed relationships with clients and partners.
@@ -117,4 +125,5 @@ The ability to work in a team, as well as the ability to organize work and assig
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2013 
+-->

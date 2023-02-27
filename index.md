@@ -30,12 +30,12 @@ Everyday I like to find space for myself, having a break dedicated to read manga
 
 ## Currently
 
-Java Software Engineer @ <a href="https://www.cinetix-group.it/">Cinetix s.r.l.</a>
+Java Software Developer @ <a href="https://www.cinetix-group.it/">Cinetix s.r.l.</a>
 
 ## Occupation
 
 `June 2020 - now`
-**Java Software Engineer**, Cinetix s.r.l.
+**Java Software Developer**, Cinetix s.r.l.
 
 Java development based on Springboot framework.
 

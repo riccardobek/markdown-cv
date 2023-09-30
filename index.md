@@ -23,7 +23,7 @@ I consider myself available and open to any suggestion, always looking for the s
 
 Since I wrote the first "Hello world" in HTML, the creation of web applications has always fascinated me. I know various programming languages, but I'm always ready to learn new ones (my favourites are Javascript and Typescript).
 
-I recently discovered the potential of SPA frameworks so much that I decided to learn Angular by myself and to take the initiative to apply it to a work-related project (which has been very successful).
+In my first working experience I discovered the potential of SPA frameworks so much that I decided to learn Angular by myself and to take the initiative to apply it to a work-related project (which has been very successful). 
 
 Everyday I like to find space for myself, having a break dedicated to read manga or keep me updated on the latest IT related stuff.
 
@@ -32,14 +32,29 @@ Everyday I like to find space for myself, having a break dedicated to read manga
 
 Java Software Developer @ <a href="https://www.cinetix-group.it/">Cinetix s.r.l.</a>
 
+### Interests
+
+Web and mobile development; most importantly learning something new everyday!
+The job I'm looking for pays attention to the employee and his training; and give the chance to move up.
+
+
 ## Occupation
 
 `June 2020 - now`
 **Java Software Developer**, Cinetix s.r.l.
 
-Java development based on Springboot framework.
+I'm part of the Java developer team, which is in charge to develop the GUI of some Cinetix products. 
+My main task are: 
 
-Maintenance of microservices applications on Linux. 
+- Java development based on Springboot framework.
+- Maintenance of microservices applications on Linux.
+
+The tecnoligies I am working with are:
+
+- Framework: Spring
+- Backend: Java, Python
+- Frontend: HTML5, CSS3/SASS/LESS, JavaScript/TypeScript
+- Operating system: Linux
 
 
 `November 2020 - June 2022`
@@ -125,5 +140,5 @@ The ability to work in a team, as well as the ability to organize work and assig
 
 <!-- ### Footer
 
-Last updated: May 2013 
+Last updated: September 2023 
 -->

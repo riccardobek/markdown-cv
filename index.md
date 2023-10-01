@@ -32,6 +32,13 @@ Everyday I like to find space for myself, having a break dedicated to read manga
 
 Java Software Developer @ <a href="https://www.cinetix-group.it/">Cinetix s.r.l.</a>
 
+### Specialised in
+
+- Frontend:  HTML5, CSS3/SASS/LESS, JavaScript/TypeScript
+- Backend: Java
+- DBMS: SQL Server, Oracle, PostgreSQL and MySQL/MariaDB
+
+
 ### Interests
 
 Web and mobile development; most importantly learning something new everyday!
@@ -43,18 +50,20 @@ The job I'm looking for pays attention to the employee and his training; and giv
 `June 2020 - now`
 **Java Software Developer**, Cinetix s.r.l.
 
-I'm part of the Java developer team, which is in charge to develop the GUI of some Cinetix products. 
-My main task are: 
+I'm part of the Java developer team, which is in charge to develop, mantain and update GUI and standalone projects.
+My PM recognized my attention and precision in my work, so he entrusted me with the task of accessing the publishing environment and giving me autonomy in its management.
+
+My main tasks are: 
 
 - Java development based on Springboot framework.
 - Maintenance of microservices applications on Linux.
 
-The tecnoligies I am working with are:
+The technoligies I am working with are:
 
 - Framework: Spring
 - Backend: Java, Python
 - Frontend: HTML5, CSS3/SASS/LESS, JavaScript/TypeScript
-- Operating system: Linux
+- Operating System: Linux
 
 
 `November 2020 - June 2022`

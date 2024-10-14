@@ -8,10 +8,9 @@ title: Riccardo Bernucci's CV
 Software Engineer
 
 <div id="webaddress">
-    <i class="fas fa-phone-square"></i> <a href="tel:+393347387500">+393347387500</a> &nbsp; &nbsp;| 
-    <i class="fas fa-envelope-open"></i> <a href="mailto:rikibek96@gmail.com">rikibek96@gmail.com</a><br>
+    <i class="fas fa-envelope-open"></i> <a href="mailto:rikibek96@gmail.com">riccardo.bernucci.96@gmail.com</a><br>
     <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/riccardo-bernucci-895b9b1a5/">My Linkedin Page</a> | <i class="fab fa-github-square"></i> <a href="https://github.com/riccardobek">My GitHub</a><br>
-    <i class="fas fa-map-marked"></i> Via Andrea Mantegna 7, Albignasego (PD) 35020, Padua, Italy<br>
+    <i class="fas fa-map-marked"></i> Padua, Italy<br>
     Nationality: Italian<br>
     Driving License: B2
 </div>
